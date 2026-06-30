@@ -1,4 +1,4 @@
-<img width="1900" height="807" alt="Screenshot 2026-06-30 175209" src="https://github.com/user-attachments/assets/dbe7fe84-2ad4-4d9c-90ca-502a2a4d3dbb" /># 💰 SmartSpend — Personal Finance & Budget Tracker
+# 💰 SmartSpend — Personal Finance & Budget Tracker
 
 SmartSpend is a full-stack personal finance management application that helps users track income and expenses, set category-wise monthly budgets, and visualize their spending habits through an interactive dashboard.
 
