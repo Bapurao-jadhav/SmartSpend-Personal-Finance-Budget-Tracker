@@ -85,7 +85,7 @@ Categories are seeded automatically on application startup via `data.sql`, cover
 ---
 ## Screenshots
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 ## 📌 Key Technical Highlights
 
 - **Custom JPQL aggregate queries** to compute monthly income/expense totals and category-wise breakdowns directly at the database level for performance
