@@ -23,7 +23,7 @@ public class UserController {
 	    @Autowired
 	    private TransactionService transactionService;
 
-	    @GetMapping("/")
+	    @GetMapping("/get")
 	    public String home() {
 	        return "home";
 	    }
